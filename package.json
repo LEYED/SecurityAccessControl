@@ -1,0 +1,8 @@
+{
+  "name": "SecurityAccessControl",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-sdk": "^2.186.0",
+    "node": "^9.4.0"
+  }
+}

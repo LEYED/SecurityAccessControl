@@ -1,0 +1,31 @@
+{
+  "community_name" : "Avalon ParkCrest",
+  "residences" : [
+    {
+      "_id" : "5a6144082b3b0be7afc8f3de",
+      "address" : "Tiger drive 206", //This could be the PK on dynamo
+      "default_response" : "CALL",
+      "family_name" : "Perez Ortiz",
+      "residents" : [
+        {"resident_id" : "fe34qsdfas8d", "resident_name": "Jorge Palacios" },
+        {"resident_id" : "asddeeas4523", "resident_name": "Jorge Palacios" },
+        {"resident_id" : "334adfg9d88e", "resident_name": "Jorge Palacios" }
+      ]
+    },
+    {
+      "_id" : "5a6144082b3b0be7afc8f3de",
+      "address" : "Puma Road 4322", //This could be the PK on dynamo
+      "default_response" : "CALL",
+      "family_name" : "Smith",
+      "residents" : [
+        {"resident_id" : "fe34qsdfas8d", "resident_name": "Jorge Palacios" },
+        {"resident_id" : "asddeeas4523", "resident_name": "Jorge Palacios" },
+        {"resident_id" : "334adfg9d88e", "resident_name": "Jorge Palacios" }
+      ]
+    }
+  ],
+  "vigilante" : [
+    {"vigilante_id" : "334adfg9d88e"},
+    {"vigilante_id" : "23451sder433"}
+  ]
+}
